@@ -34,7 +34,7 @@ This data was converted to a cpp header file for use inside [Arduino IDE](https:
 We built the VCO circuit on a PCB, connected to an ESP32 loaded with the trained neural network. We then verified that the frequency is, indeed, self adaptive by heating the circuit upto 45 degrees Celsius.
 
 # Teammates
-- [Moida Praneeth Jain](https://github.com/PraneethJain)
 - [Harshvardhan Rana](https://github.com/harshvardhanrana)
+- [Moida Praneeth Jain](https://github.com/PraneethJain)
 - [Mohammed Faisal](https://github.com/JerseysGet)
 - [Divyansh Jain](https://github.com/divyansh1702)
